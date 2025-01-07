@@ -36,11 +36,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript - Скриптовый язык программирования">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
-  <a href="https://reactjs.org/" title="React - Библиотека для создания пользовательских интерфейсов">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
   <a href="https://www.typescriptlang.org/" title="TypeScript - Надмножество JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://reactjs.org/" title="React - Библиотека для создания пользовательских интерфейсов">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   </a>
   <a href="https://vuejs.org/" title="Vue.js - Прогрессивный фреймворк JavaScript">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
